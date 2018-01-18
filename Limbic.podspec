@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/basdvries/Limbic-iOS.git", :branch => 'test' :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/basdvries/Limbic-iOS.git", :branch => "test", :tag => "#{s.version}" }
   s.ios.vendored_frameworks = 'Limbic.framework'
 
 
