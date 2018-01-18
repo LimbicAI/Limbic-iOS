@@ -19,12 +19,18 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "Stress detection AI for iOS apps."
 
+  s.library      = 'z'
+  s.frameworks   = 'HealthKit' ,'UIKit'
+  s.xcconfig     =  { 'FRAMEWORK_SEARCH_PATHS' => '"$(PODS_ROOT)/Limbic/"' }
+  s.requires_arc = true
+
+
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "no description yet"
+  #s.description  = "no description yet available"
                    
 
   s.homepage     = "http://limbic.ai"
@@ -92,8 +98,10 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.exclude_files = "Classes/Exclude"
+  #s.source_files = 'Limbic.framework/'
+  #s.source_files  = "Classes", "Classes/**/*.{h,m}"
+  #s.exclude_files = "Classes/Exclude"
+  #s.preserve_paths =  'Limbic.framework/*'
 
   # s.public_header_files = "Classes/**/*.h"
 
