@@ -16,14 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Limbic"
-  s.version      = "0.0.2"
+  s.version      = "0.0.1"
   s.summary      = "Stress detection AI for iOS apps."
-
-  s.library      = 'z'
-  s.frameworks   = 'HealthKit' ,'UIKit'
-  s.xcconfig     =  { 'FRAMEWORK_SEARCH_PATHS' => '"$(PODS_ROOT)/Limbic/"' }
-  s.requires_arc = true
-
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
