@@ -41,7 +41,6 @@ $ pod install
 	```
 	```objective-c
 	// Objective-C
-	[Instabug startWithToken:<#app token#> invocationEvent:IBGInvocationEventShake];
 	```
 	Make sure to replace `YOUR_API_KEY` with your application token. Apply for our beta [here](https://sebastiaandevries.typeform.com/to/FGrq19).
   
