@@ -50,14 +50,14 @@ $ pod install
     let limbic = Limbic()
     ```
     
-Then, call the stress function like below.
-```swift
-// Swift
-limbic.getStressforCurrentUser(startDate: Date(), endDate: Date()) { stress in
-    // for information on return values, see below
-    print(stress)
-}
-```
+    Then, call the stress function like below.
+    ```swift
+    // Swift
+    limbic.getStressforCurrentUser(startDate: Date(), endDate: Date()) { stress in
+        // for information on return values, see below
+        print(stress)
+    }
+    ```
 #### Helper functions
 ```swift
 // Swift
