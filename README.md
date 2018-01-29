@@ -77,6 +77,17 @@ limbic.getLastYearStressForCurrentUser { stress in
     print(stress)
 }
 ```
+
+## Return values
+
+```json
+{
+"1515174614" : {
+ "stressIndex" : 0.49430439430,
+ "confidence" : 0.02003929329
+ }
+}
+```
     
 ## Notes
 Instabug needs access to the microphone and photo library to be able to let users add audio and video attachments. Starting from iOS 10, apps that don’t provide a usage description for those 2 permissions would be rejected when submitted to the App Store.
