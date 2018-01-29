@@ -57,4 +57,9 @@ If your app doesn’t already access healthKit, we recommend a line that is simi
 
 **The permission alert for accessing HealthKit will NOT appear unless one of the stress methods is invoked and permissions haven't been given yet.**
 
+Please see down below for a description of a flow chart what happens when you call one of the stress functions:
 ![alt text](https://i.imgur.com/LWva5XS.png)
+
+### How do I control when Limbic asks for permissions?
+
+We're working on a function that puts you in full control as to when you ask for permissions. For now the best way to ask for permissions is to request of all permissions listed in the flowchart and add them to wherever your app is asking for permissions as well. As shown in the flowchart, Limbic will only ask for permissions if they are not set yet. If the user has accepted or rejected the HealthKit data sharing request, then Limbic can't and won't ask for that again.
