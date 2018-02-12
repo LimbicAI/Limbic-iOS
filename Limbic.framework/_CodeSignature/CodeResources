@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Limbic-Swift.h</key>
 		<data>
-		bjlFfTTLmykC8dXXEbq3b4Gbi5c=
+		OqVVSXVYmvXHthdFm36cTiC4KmQ=
 		</data>
 		<key>Headers/Limbic.h</key>
 		<data>
@@ -14,23 +14,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wMSlvwFAOKBO0qgVEpKfei15aLo=
+		Lfg0UGXx15L629jSkDQvwdidexc=
 		</data>
 		<key>Modules/Limbic.swiftmodule/arm.swiftdoc</key>
 		<data>
-		OKAKnhWf5HQaXMjQAdPwTkxcn+Y=
+		AaouM5RMzAkS5Ot8+he8PQxOq+I=
 		</data>
 		<key>Modules/Limbic.swiftmodule/arm.swiftmodule</key>
 		<data>
-		S9bMF88xNZdvE6YEzOjqGoCmoUA=
+		kEOTTzJUbc77jkRNwyawu4qVRLc=
 		</data>
 		<key>Modules/Limbic.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		2Lu++3ZvRwfDKsElrAxM2O5tI6s=
+		dFvaIPkD0yLjuT0uYGqN/KZuqL8=
 		</data>
 		<key>Modules/Limbic.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		XKo4GQvIiHfU1P1f2xLJu9bHWT8=
+		34FJgz73+IgbVUN9Re3oKDd0KsI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -335,11 +335,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bjlFfTTLmykC8dXXEbq3b4Gbi5c=
+			OqVVSXVYmvXHthdFm36cTiC4KmQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			SZh+oPOHYtOY2DpitJhM49PD92iZ4isLJbOdxCf+sT0=
+			Bfzq2v0CblvS4DeKdhFp8CfTiyb/IpAoNWIEp8CkZ4U=
 			</data>
 		</dict>
 		<key>Headers/Limbic.h</key>
@@ -357,44 +357,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OKAKnhWf5HQaXMjQAdPwTkxcn+Y=
+			AaouM5RMzAkS5Ot8+he8PQxOq+I=
 			</data>
 			<key>hash2</key>
 			<data>
-			KVRjBq/vg1oLNkpzWfgVXbLhdGNsdSAzipeHi47YsAI=
+			bl7Eh3LU00d9EODV19W0WK4G5b+Quvi4drxjOYvRqLM=
 			</data>
 		</dict>
 		<key>Modules/Limbic.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			S9bMF88xNZdvE6YEzOjqGoCmoUA=
+			kEOTTzJUbc77jkRNwyawu4qVRLc=
 			</data>
 			<key>hash2</key>
 			<data>
-			2I/ezHeIxb9Hhjy1a8DvILbocnmPoOta8xFeOiuZELs=
+			QtXsXg5j7xIJk5YEX2/t/0FQHUnqmE8a9jt8EnBYvgk=
 			</data>
 		</dict>
 		<key>Modules/Limbic.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2Lu++3ZvRwfDKsElrAxM2O5tI6s=
+			dFvaIPkD0yLjuT0uYGqN/KZuqL8=
 			</data>
 			<key>hash2</key>
 			<data>
-			DWU4IhSa6onT/ordAe7o/8le8dxbcfxUP1Mic4xXrD0=
+			GWICqKKQP0xMIsvQ5PXxZDZurRbINMzegZnIK7f41Ds=
 			</data>
 		</dict>
 		<key>Modules/Limbic.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XKo4GQvIiHfU1P1f2xLJu9bHWT8=
+			34FJgz73+IgbVUN9Re3oKDd0KsI=
 			</data>
 			<key>hash2</key>
 			<data>
-			i3rD4LLizslJIJNGcPK6U3FsxCvHUnpju1z+zVebUJw=
+			YzfC4IEe6cd2LS035Xy4I2uSJiPF1PkwMbyk7mbaQBg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
