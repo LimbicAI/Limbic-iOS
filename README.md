@@ -1,8 +1,6 @@
 # Limbic iOS SDK
 Limbic's Stress detection AI for iOS
 
-(insert intro about the SDK over here - what it does etc)
-
 ## Installation
 
 ### CocoaPods
