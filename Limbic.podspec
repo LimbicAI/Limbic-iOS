@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Limbic"
-  s.version      = "0.1.3"
+  s.version      = "0.1.4"
   s.summary      = "Stress detection AI for iOS apps."
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   #s.description  = "no description yet available"
-                   
+
 
   s.homepage     = "http://limbic.ai"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
