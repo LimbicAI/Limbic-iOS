@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Limbic-Swift.h</key>
 		<data>
-		Dh6AgGer2/6/ed/tcwKeNew/IWw=
+		wYyQuoWlb3mijH4Xx0gqfkvOi78=
 		</data>
 		<key>Headers/Limbic.h</key>
 		<data>
@@ -14,23 +14,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Lfg0UGXx15L629jSkDQvwdidexc=
+		AAIDuQxVYbub/MtTQvTPumJRSg8=
 		</data>
 		<key>Modules/Limbic.swiftmodule/arm.swiftdoc</key>
 		<data>
-		AaouM5RMzAkS5Ot8+he8PQxOq+I=
+		trv78VS9f1TDzBDGfpBDvvSlO0g=
 		</data>
 		<key>Modules/Limbic.swiftmodule/arm.swiftmodule</key>
 		<data>
-		zkFsn0SXU+uARBAbazBLDN0fI4k=
+		ZDu5eQiZtPMniw7D81xls7vY3+A=
 		</data>
 		<key>Modules/Limbic.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		dFvaIPkD0yLjuT0uYGqN/KZuqL8=
+		2qzP3NMJJ49cfPZxpcDDGUWVMTA=
 		</data>
 		<key>Modules/Limbic.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		2jZac329fKIBxixaIbkvypPJikE=
+		a2baDXnxSQBDkxs23DNQ9EWAyHc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -335,11 +335,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Dh6AgGer2/6/ed/tcwKeNew/IWw=
+			wYyQuoWlb3mijH4Xx0gqfkvOi78=
 			</data>
 			<key>hash2</key>
 			<data>
-			OzRNSA8cHr5EAlAovUDnEqKYlGNhobFgFgbGEZWnH2g=
+			3un73C9OeoUc+WLbIKG/34Ll/wo3fHsDt1fpdiz6ebE=
 			</data>
 		</dict>
 		<key>Headers/Limbic.h</key>
@@ -357,44 +357,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AaouM5RMzAkS5Ot8+he8PQxOq+I=
+			trv78VS9f1TDzBDGfpBDvvSlO0g=
 			</data>
 			<key>hash2</key>
 			<data>
-			bl7Eh3LU00d9EODV19W0WK4G5b+Quvi4drxjOYvRqLM=
+			4a0WirGatevj4NkjuMr21voZt5xndP7lgNcpvvH5Idc=
 			</data>
 		</dict>
 		<key>Modules/Limbic.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zkFsn0SXU+uARBAbazBLDN0fI4k=
+			ZDu5eQiZtPMniw7D81xls7vY3+A=
 			</data>
 			<key>hash2</key>
 			<data>
-			D4EYHxsEAEVCsFZGh77qwyTX0CCcFDNh7PeVEqErx0I=
+			PeCWeqY1QKkVtvEOSzZnKNXoHJjypqA4GSpOo0Bt/rs=
 			</data>
 		</dict>
 		<key>Modules/Limbic.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dFvaIPkD0yLjuT0uYGqN/KZuqL8=
+			2qzP3NMJJ49cfPZxpcDDGUWVMTA=
 			</data>
 			<key>hash2</key>
 			<data>
-			GWICqKKQP0xMIsvQ5PXxZDZurRbINMzegZnIK7f41Ds=
+			DaLxB605ug1bQimEp16yDy437jQBigqQ0BqLaK/pJKs=
 			</data>
 		</dict>
 		<key>Modules/Limbic.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2jZac329fKIBxixaIbkvypPJikE=
+			a2baDXnxSQBDkxs23DNQ9EWAyHc=
 			</data>
 			<key>hash2</key>
 			<data>
-			xV01o7qYX89t+fB9j//TKmtjRI44Gsh9IL2O+nzgjG0=
+			35yfDUTCAIM/bbRjHk4RDuvqF+6Fg00Gyn1lUHwGMhc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
