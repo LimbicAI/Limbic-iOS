@@ -7,8 +7,14 @@ Limbic's Stress detection AI for iOS
 
 To integrate Limbic into your Xcode project using [CocoaPods](https://cocoapods.org), add it to your `Podfile`:
 
+For non xcode beta builds:
 ```ruby
-pod 'Limbic'
+pod 'Limbic', '~> 0.0.25’
+```
+
+For xcode beta builds:
+```ruby
+pod 'Limbic', '~> 0.1.0’
 ```
 
 Then, run the following command:
