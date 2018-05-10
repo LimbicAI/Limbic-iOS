@@ -94,8 +94,6 @@ limbic.getLastYearStressForCurrentUser { stress in
 ```
     
 ## Notes
-Instabug needs access to the microphone and photo library to be able to let users add audio and video attachments. Starting from iOS 10, apps that don’t provide a usage description for those 2 permissions would be rejected when submitted to the App Store.
-
 For your app not to be rejected, you’ll need to add the following key to your app’s info.plist file with text explaining to the user why those permissions are needed:
 
 * `NSHealthShareUsageDescription`
@@ -103,6 +101,8 @@ For your app not to be rejected, you’ll need to add the following key to your 
 If your app doesn’t already access healthKit, we recommend a line that is similar to:
 
 * "`<app name>` needs access to your health data to present accurate stress level predictions."
+
+It's also important that you turn the Healthkit entitlement on in the capabilities page in your project.
 
 **The permission alert for accessing HealthKit will NOT appear unless one of the stress methods is invoked and permissions haven't been given yet.**
 
