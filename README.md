@@ -84,13 +84,13 @@ limbic.getLastYearStressForCurrentUser { stress in
 
 ## Return values
 
-```json
-   "2018-05-29 23:00:00 +0000" = {
-       confidence = "1.000001054754341";
-       confidenceLevel = 2;
-       stressIndex = 0;
-       stressLevel = 4;
-   };
+```swift
+"2018-05-29 23:00:00 +0000" = {
+  confidence = "1.000001054754341";
+  confidenceLevel = 2;
+  stressIndex = 0;
+  stressLevel = 4;
+};
 ```
 
 **WE RECOMMEND ONLY USING StressLevel AND confidenceLevel IF YOU ARE DEVELOPING WITH LIMBIC.
