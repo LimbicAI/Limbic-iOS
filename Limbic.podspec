@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Limbic"
-  s.version      = "0.0.33"
+  s.version      = "0.1.10"
   s.summary      = "Stress detection AI for iOS apps."
 
   # This description is used to generate tags and improve search results.
